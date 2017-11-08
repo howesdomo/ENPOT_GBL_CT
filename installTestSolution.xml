@@ -17,13 +17,11 @@
 				<key>metadata</key>
 				<dict>
 					<key>bundle-identifier</key>
-					<string>com.XXX.XXX</string>
+					<string>com.do.build</string>
 					<key>bundle-version</key>
-					<string>1.00</string>
+					<string>1.0</string>
 					<key>kind</key>
 					<string>software</string>
-					<key>releaseNotes</key>
-					<string>测试OTA</string>
 					<key>title</key>
 					<string>在线安装测试</string>
 				</dict>
