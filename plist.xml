@@ -10,7 +10,7 @@
 						<string>software-package</string>
 						<key>url</key>
 						<string>
-							http://package.file.deviceone.net/packages/a7408d5e-6f69-4293-86d8-41474fb01719/ed2f6ec1-6a1a-40da-9a03-d4e6ef5076b1/39e29232-d9ff-56d4-27f9-1ed3e8d36a14.ipa
+							http://192.168.1.215:17906/APP_Server/Update/iOS/ENPOT_GBL_CT.ipa
 						</string>
 					</dict>
 				</array>
