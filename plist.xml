@@ -27,5 +27,7 @@
 				</dict>
 			</dict>
 		</array>
+		<key>LSRequiresIPhoneOS</key>
+		<true/>
 	</dict>
 </plist>
